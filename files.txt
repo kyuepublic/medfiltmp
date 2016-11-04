@@ -1,0 +1,7 @@
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/medfiltmp/__init__.py
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/medfiltmp/__init__.pyc
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/EGG-INFO/PKG-INFO
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/EGG-INFO/SOURCES.txt
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/EGG-INFO/dependency_links.txt
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/EGG-INFO/not-zip-safe
+/local/kyue/program/anaconda/lib/python2.7/site-packages/medfiltmp-0.1-py2.7.egg/EGG-INFO/top_level.txt
