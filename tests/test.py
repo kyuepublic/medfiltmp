@@ -1,7 +1,5 @@
 __author__ = 'kyue'
 
-__author__ = 'kyue'
-
 
 import medfiltmp
 from scipy import ndimage
